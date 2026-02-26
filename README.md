@@ -23,7 +23,7 @@ sh <(wget -O - https://raw.githubusercontent.com/Slava-Shchipunov/awg-openwrt/re
 5) [23.05.4](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v23.05.4)
 6) [23.05.5](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v23.05.5)
 7) AWG-2.0 [23.05.6](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v23.05.6)
-8) [24.10.0](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v24.10.0)
+8) [24.10.0](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v24.10.0) ([AWG-2.0 для 24.10.0](https://github.com/yanjore/awg-openwrt/releases/tag/v24.10.0) из форка, если кому-то понадобится)
 9) [24.10.1](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v24.10.1)
 10) [24.10.2](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v24.10.2)
 11) AWG-2.0 [24.10.3](https://github.com/Slava-Shchipunov/awg-openwrt/releases/tag/v24.10.3)
